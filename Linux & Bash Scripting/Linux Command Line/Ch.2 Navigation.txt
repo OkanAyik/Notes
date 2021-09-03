@@ -1,8 +1,8 @@
 The first thing we need to learn is how to navigate the file system on our Linux system.
 
-	pwd : Print name of the current working directory
+	pwd 	: Print name of the current working directory
 	cd      : Change directory
-	ls       : List directory contents
+	ls      : List directory contents
 
 ---
 Understanding the File System Tree     
